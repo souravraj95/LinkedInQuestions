@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0627046-1428-4731-aa46-3668701e9751" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/CountOfCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/HighestNumAdjRightInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/HighestSumofProductofTwoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/RemoveDuplicatesFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/RemoveDuplicatesFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/ReverseWordInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/StringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/TableDataIntoCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/UniqueCharacterInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/AnagramString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/CombineConsecutiveStringCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/MinimumRemovalToPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/OddNumberTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/PushAllZerosToEndInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/RemoveConsecutiveVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ReverseCharacterOfEachWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ReverseNumberUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/RotationInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/UniqueNumberInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/QuestionAnswers/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuestionAnswers/RotateMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +54,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TableDataIntoCollection">
-    <configuration name="RemoveDuplicatesFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuestionAnswers.RemoveDuplicatesFromString" />
+  <component name="RunManager" selected="Application.ReverseNumberUsingRecursion">
+    <configuration name="CombineConsecutiveStringCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.CombineConsecutiveStringCharacter" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuestionAnswers.*" />
+          <option name="PATTERN" value="Part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuestionAnswers.ReverseWordInAString" />
+    <configuration name="MinimumRemovalToPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.MinimumRemovalToPalindrome" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuestionAnswers.*" />
+          <option name="PATTERN" value="Part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuestionAnswers.StringPalindrome" />
+    <configuration name="RemoveConsecutiveVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.RemoveConsecutiveVowels" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuestionAnswers.*" />
+          <option name="PATTERN" value="Part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableDataIntoCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuestionAnswers.TableDataIntoCollection" />
+    <configuration name="ReverseNumberUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.ReverseNumberUsingRecursion" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuestionAnswers.*" />
+          <option name="PATTERN" value="Part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuestionAnswers.UniqueCharacterInString" />
+    <configuration name="UniqueNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part2.UniqueNumberInArray" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuestionAnswers.*" />
+          <option name="PATTERN" value="Part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TableDataIntoCollection" />
-        <item itemvalue="Application.ReverseWordInAString" />
-        <item itemvalue="Application.StringPalindrome" />
-        <item itemvalue="Application.UniqueCharacterInString" />
-        <item itemvalue="Application.RemoveDuplicatesFromString" />
+        <item itemvalue="Application.ReverseNumberUsingRecursion" />
+        <item itemvalue="Application.UniqueNumberInArray" />
+        <item itemvalue="Application.RemoveConsecutiveVowels" />
+        <item itemvalue="Application.MinimumRemovalToPalindrome" />
+        <item itemvalue="Application.CombineConsecutiveStringCharacter" />
       </list>
     </recent_temporary>
   </component>
