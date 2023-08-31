@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0627046-1428-4731-aa46-3668701e9751" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/AnagramString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/CombineConsecutiveStringCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/MinimumRemovalToPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/OddNumberTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/PushAllZerosToEndInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/RemoveConsecutiveVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ReverseCharacterOfEachWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/ReverseNumberUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/RotationInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part2/UniqueNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/LongestSubArrayOf1S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/RemoveMinMaxFromArrayAndAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/RemoveStarAndNonStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/SmallestPalindromeDivisibleBy7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +49,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseNumberUsingRecursion">
-    <configuration name="CombineConsecutiveStringCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2.CombineConsecutiveStringCharacter" />
+  <component name="RunManager" selected="Application.SmallestPalindromeDivisibleBy7">
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3.BinarySearchTree" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part2.*" />
+          <option name="PATTERN" value="Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumRemovalToPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2.MinimumRemovalToPalindrome" />
+    <configuration name="LongestSubArrayOf1S" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3.LongestSubArrayOf1S" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part2.*" />
+          <option name="PATTERN" value="Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveConsecutiveVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2.RemoveConsecutiveVowels" />
+    <configuration name="RemoveMinMaxFromArrayAndAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3.RemoveMinMaxFromArrayAndAverage" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part2.*" />
+          <option name="PATTERN" value="Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumberUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2.ReverseNumberUsingRecursion" />
+    <configuration name="RemoveStarAndNonStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3.RemoveStarAndNonStar" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part2.*" />
+          <option name="PATTERN" value="Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2.UniqueNumberInArray" />
+    <configuration name="SmallestPalindromeDivisibleBy7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3.SmallestPalindromeDivisibleBy7" />
       <module name="LinkedInQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part2.*" />
+          <option name="PATTERN" value="Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseNumberUsingRecursion" />
-        <item itemvalue="Application.UniqueNumberInArray" />
-        <item itemvalue="Application.RemoveConsecutiveVowels" />
-        <item itemvalue="Application.MinimumRemovalToPalindrome" />
-        <item itemvalue="Application.CombineConsecutiveStringCharacter" />
+        <item itemvalue="Application.SmallestPalindromeDivisibleBy7" />
+        <item itemvalue="Application.RemoveMinMaxFromArrayAndAverage" />
+        <item itemvalue="Application.LongestSubArrayOf1S" />
+        <item itemvalue="Application.RemoveStarAndNonStar" />
+        <item itemvalue="Application.BinarySearchTree" />
       </list>
     </recent_temporary>
   </component>
