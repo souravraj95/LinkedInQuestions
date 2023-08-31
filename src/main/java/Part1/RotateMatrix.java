@@ -1,4 +1,4 @@
-package QuestionAnswers;
+package Part1;
 
 /*Question 09 :  Write a java program to rotate/transpose a give matrix into a 90 degree.
 Input : 1 2 3     Output: 7 4 1

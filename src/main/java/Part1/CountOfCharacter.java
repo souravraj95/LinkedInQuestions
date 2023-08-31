@@ -1,4 +1,4 @@
-package QuestionAnswers;
+package Part1;
 /*Question 03 : Write a java program to find a count of each character in a given string.
     Input = “Automation Testing” Output = a=2,u=1,t=4,o=2,m=1,i=2,n=2,e=1,s=1,g=1
  */

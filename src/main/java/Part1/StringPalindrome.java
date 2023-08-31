@@ -1,4 +1,4 @@
-package QuestionAnswers;
+package Part1;
 /* Questions 07: Write a java program to find a given string is a palindrome or not without using third variable.
     Input = “MADAM” Output = Yes
  */

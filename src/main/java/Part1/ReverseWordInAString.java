@@ -1,4 +1,4 @@
-package QuestionAnswers;
+package Part1;
 
 /*Question 08 : Write a java program to reverse each word in a given string.
 Input = “I am a automation tester” Output = tester automation a am I

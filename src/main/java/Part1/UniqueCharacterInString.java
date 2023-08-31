@@ -1,6 +1,4 @@
-package QuestionAnswers;
-
-import java.util.Arrays;
+package Part1;
 
 /* Question 06 : Write a java program to find a unique characters in a given string.
     Input = “automation” Output = umin

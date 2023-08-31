@@ -1,4 +1,4 @@
-package QuestionAnswers;
+package Part1;
 /* Question 10 : Write a java program to insert given table data into a collection and print it.
 Choose best collection keep in mind time and space complexity. (Please see attached image for input and output).
 
