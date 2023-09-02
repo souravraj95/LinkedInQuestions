@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0627046-1428-4731-aa46-3668701e9751" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/LongestSubArrayOf1S.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/RemoveMinMaxFromArrayAndAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/RemoveStarAndNonStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Part3/SmallestPalindromeDivisibleBy7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part3/LongestSubArrayOf1S.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part3/LongestSubArrayOf1S.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part3/RemoveMinMaxFromArrayAndAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part3/RemoveMinMaxFromArrayAndAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Part3/SmallestPalindromeDivisibleBy7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Part3/SmallestPalindromeDivisibleBy7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SmallestPalindromeDivisibleBy7">
+  <component name="RunManager" selected="Application.LongestSubArrayOf1S">
     <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Part3.BinarySearchTree" />
       <module name="LinkedInQuestions" />
@@ -128,9 +126,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSubArrayOf1S" />
         <item itemvalue="Application.SmallestPalindromeDivisibleBy7" />
         <item itemvalue="Application.RemoveMinMaxFromArrayAndAverage" />
-        <item itemvalue="Application.LongestSubArrayOf1S" />
         <item itemvalue="Application.RemoveStarAndNonStar" />
         <item itemvalue="Application.BinarySearchTree" />
       </list>

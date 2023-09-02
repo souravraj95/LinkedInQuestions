@@ -1,4 +1,8 @@
 package Part3;
+/* Question 24: Write a java program to exclude min and max value from a given array and take an average of rest array.
+Input : {5,12,3,8,20,1,15} Output : 8.6
+
+ */
 
 import java.util.Arrays;
 

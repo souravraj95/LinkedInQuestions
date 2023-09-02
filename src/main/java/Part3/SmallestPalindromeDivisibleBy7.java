@@ -1,5 +1,10 @@
 package Part3;
+/* Question 25 : Write a java program to find smallest palindrome which is divisible by 7 of given N digit.}
+Input : 1 Output : 7
+Input : 2 Output : 77
+Input : 3 Output : 161
 
+ */
 public class SmallestPalindromeDivisibleBy7 {
     public static void main(String[] args) {
         int N = 1;

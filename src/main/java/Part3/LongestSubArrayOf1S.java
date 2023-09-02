@@ -1,30 +1,34 @@
 package Part3;
+/*Question 23 : Write a java program to find out longest sub array of 1’s and only one delete is allowed.
+Input : {1,1,0,1} Output : 3
+Input : {1,1,0,0,1} Output : 2
 
+ */
 public class LongestSubArrayOf1S {
     public static void main(String[] args) {
-        int[] arr = {1, 1, 3, 4, 1};
+        int[] arr = {1, 1, 0, 0, 1};
 
         int maxLen = 0;
         int left = 0;
-        int countZeroOrOther = 0;
-        int maxOneCount = 0;
+        int zeroCount = 0;
 
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] != 1) {
-                countZeroOrOther++;
+
+        for (int right = 0; right < arr.length; right++) {
+            if (arr[right] == 0) {
+                zeroCount++;
             }
-            while (countZeroOrOther > 1) {
-                if (arr[left] != 1) {
-                    countZeroOrOther++;
+
+            // If zeroCount becomes greater than 1, we need to move the left pointer
+            // to maintain only one deletion allowed.
+            while (zeroCount > 1) {
+                if (arr[left] == 0) {
+                    zeroCount--;
                 }
                 left++;
-                countZeroOrOther--;
             }
-
-            maxOneCount = i - left - countZeroOrOther + 1;
-            maxLen = Math.max(maxLen, maxOneCount);
+            maxLen = Math.max(maxLen, right - left + 1);
         }
-        System.out.println(maxLen);
+        System.out.println(maxLen - 1);
 
     }
 }
